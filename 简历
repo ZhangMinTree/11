@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="reset.css">
+  <title>我的简历</title>
+ </head>
+ <body>
+  <section>
+	<h1>我的简历</h1>
+	<h2>123工作经历</h2>
+	<h2>4442技能特长</h2>
+  </section>
+  <section>
+	<h2>工作经历</h2>
+	<h2>技能特长</h2>
+  </section>
+ </body>
+</html>
